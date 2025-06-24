@@ -1,0 +1,41 @@
+# 📊 Sales Dashboard (Kevin's Tutorial)
+
+🎥 *Source*: Followed Kevin's YouTube video on creating a Sales Dashboard in Power BI.
+
+---
+
+## 🎯 What I did:
+- Imported sales data into Power BI.
+- Designed visualizations including:
+  - Total sales by region
+  - Sales trends over time
+  - Top customers by revenue
+- Applied slicers and interactions for filtering by customer and region.
+- Practiced customizing visuals (bar charts, pie charts, maps) and layout.
+- Added KPIs to highlight key metrics like total revenue and order count.
+
+---
+
+## 📂 Files:
+- SalesDashboard.pbix – Power BI report file
+- SalesData.xlsx – Raw sales data file
+- Screenshot.png – Preview of the dashboard
+
+---
+
+## 💡 Skills Practiced:
+✅ Importing and transforming data in Power BI  
+✅ Creating visualizations (charts, KPIs, maps)  
+✅ Adding slicers and interactions for interactivity  
+✅ Formatting a dashboard for professional presentation  
+✅ Applying color themes and report branding
+
+---
+
+## 🔗 Video Tutorial:
+[Link to Kevin's YouTube Tutorial](https://youtu.be/VaOhNqNtGGE?si=KSoQ4MPUsScv-kC7)
+
+
+---
+
+💬 This was a hands-on practice project to improve my dashboard design skills in Power BI and gain more experience working with real-world sales data.
